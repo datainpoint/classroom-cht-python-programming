@@ -1,0 +1,351 @@
+{
+    "code": 200,
+    "message": "查詢成功",
+    "result": {
+        "listingDate": {
+            "isHidden": false,
+            "value": "83/09/05"
+        },
+        "annualFinancialReport": {
+            "isHidden": true,
+            "value": ""
+        },
+        "reviewAccountingOffice": {
+            "isHidden": true,
+            "value": ""
+        },
+        "industryCategory": {
+            "isHidden": false,
+            "value": "半導體業"
+        },
+        "isTechnology": {
+            "isHidden": true,
+            "value": false
+        },
+        "stockTransferAgency": {
+            "isHidden": false,
+            "value": "中國信託商業銀行 代理部"
+        },
+        "isTDR": {
+            "isHidden": true,
+            "value": false
+        },
+        "companyName": {
+            "isHidden": false,
+            "value": "台灣積體電路製造股份有限公司"
+        },
+        "spokesperson": {
+            "isHidden": false,
+            "value": "黃仁昭"
+        },
+        "publishDate": {
+            "isHidden": false,
+            "value": "81/10/30"
+        },
+        "subSpokesperson": {
+            "isHidden": false,
+            "value": "高孟華"
+        },
+        "internetAddress": {
+            "isHidden": false,
+            "value": "https://www.tsmc.com"
+        },
+        "spokespersonTelephone": {
+            "isHidden": false,
+            "value": "03-563-6688"
+        },
+        "reportType": {
+            "isHidden": false,
+            "value": "合併"
+        },
+        "lawsuitTelephone": {
+            "isHidden": true,
+            "value": ""
+        },
+        "beforeChangeName": {
+            "isHidden": false,
+            "value": ""
+        },
+        "accounting1": {
+            "isHidden": false,
+            "value": "吳世宗"
+        },
+        "accounting2": {
+            "isHidden": false,
+            "value": "林尚志"
+        },
+        "foreignCompanyRegisterPlace": {
+            "isHidden": false,
+            "value": "-"
+        },
+        "investorLiaison": {
+            "isHidden": false,
+            "value": "蘇志凱"
+        },
+        "semi_annualFinancialReport": {
+            "isHidden": true,
+            "value": ""
+        },
+        "firstSeasonFinancialReport": {
+            "isHidden": true,
+            "value": ""
+        },
+        "corporateGovernanceLink": {
+            "isHidden": false,
+            "value": "https://investor.tsmc.com/chinese/corporate-governance"
+        },
+        "perUnitAmount": {
+            "isHidden": true,
+            "value": "1.00"
+        },
+        "companyEnglishAbbreviation": {
+            "isHidden": false,
+            "value": "TSMC"
+        },
+        "haveCompanyBonds": {
+            "isHidden": false,
+            "value": true
+        },
+        "englishAddress_County": {
+            "isHidden": false,
+            "value": "Hsin-Chu 300096, Taiwan, R.O.C."
+        },
+        "investorLiaisonEmail": {
+            "isHidden": false,
+            "value": "jeff_su@tsmc.com"
+        },
+        "telephone": {
+            "isHidden": false,
+            "value": "03-5636688"
+        },
+        "establishDate": {
+            "isHidden": false,
+            "value": "76/02/21"
+        },
+        "isStartup": {
+            "isHidden": true,
+            "value": false
+        },
+        "lawsuitAgentName": {
+            "isHidden": true,
+            "value": ""
+        },
+        "approvedDate": {
+            "isHidden": true,
+            "value": ""
+        },
+        "accountingOffice": {
+            "isHidden": false,
+            "value": "勤業眾信聯合會計師事務所"
+        },
+        "changeApprovedDate": {
+            "isHidden": false,
+            "value": ""
+        },
+        "commonStockDistribute": {
+            "isHidden": false,
+            "value": "每季"
+        },
+        "keepOrganization": {
+            "isHidden": true,
+            "value": ""
+        },
+        "transferAddress": {
+            "isHidden": false,
+            "value": "台北市重慶南路一段83號5樓"
+        },
+        "accountingRule": {
+            "isHidden": true,
+            "value": ""
+        },
+        "financialReportRule": {
+            "isHidden": true,
+            "value": ""
+        },
+        "TDR_Stock": {
+            "isHidden": true,
+            "value": ""
+        },
+        "note": {
+            "isHidden": false,
+            "value": "　"
+        },
+        "oldAccountingYear": {
+            "isHidden": false,
+            "value": ""
+        },
+        "specialStockAmount": {
+            "isHidden": false,
+            "value": "0股"
+        },
+        "investorLiaisonTitle": {
+            "isHidden": false,
+            "value": "處長"
+        },
+        "lawsuitAddress": {
+            "isHidden": true,
+            "value": ""
+        },
+        "mainBusiness": {
+            "isHidden": false,
+            "value": "依客戶之訂單與其提供之產品設計說明，以從事製造與銷售積體電路、以及其他晶圓半導體裝置。提供前述產品之封裝與測試服務、積體電、路之電腦輔助設計技術服務。提供製造光罩及其設計服務。"
+        },
+        "spokespersonTitle": {
+            "isHidden": false,
+            "value": "資深副總經理暨財務長"
+        },
+        "englishAddress_Street": {
+            "isHidden": false,
+            "value": "No. 8, Li-Hsin Rd. 6, Hsinchu Science Park,"
+        },
+        "oldExpirationDate": {
+            "isHidden": false,
+            "value": ""
+        },
+        "lawsuitAgentEnglishName": {
+            "isHidden": true,
+            "value": ""
+        },
+        "TDR_StockMarket": {
+            "isHidden": true,
+            "value": ""
+        },
+        "commonStockAmount": {
+            "isHidden": false,
+            "value": "25,932,615,521股（含私募0股）"
+        },
+        "industryRiskDescription": {
+            "isHidden": true,
+            "value": ""
+        },
+        "depositOrganization": {
+            "isHidden": true,
+            "value": ""
+        },
+        "beforeChangeAbbreviation": {
+            "isHidden": false,
+            "value": ""
+        },
+        "investorLiaisonTelephone": {
+            "isHidden": false,
+            "value": "03-563-6688"
+        },
+        "lawsuitEnglishAddress": {
+            "isHidden": true,
+            "value": ""
+        },
+        "commonStockLevel": {
+            "isHidden": false,
+            "value": "董事會"
+        },
+        "capitalAmount": {
+            "isHidden": false,
+            "value": "259,326,155,210元"
+        },
+        "commonStockPrice": {
+            "isHidden": false,
+            "value": "新台幣                 10.0000元"
+        },
+        "email": {
+            "isHidden": false,
+            "value": "invest@tsmc.com"
+        },
+        "reviewAccounting2": {
+            "isHidden": true,
+            "value": ""
+        },
+        "reviewAccounting1": {
+            "isHidden": true,
+            "value": ""
+        },
+        "address": {
+            "isHidden": false,
+            "value": "新竹科學園區力行六路8號"
+        },
+        "companyEnglishName": {
+            "isHidden": false,
+            "value": "Taiwan Semiconductor Manufacturing Co., Ltd."
+        },
+        "mops_url_1": {
+            "isHidden": true,
+            "value": "https://esg.tsmc.com/zh-Hant/sustainable-management/materiality-analysis"
+        },
+        "chairman": {
+            "isHidden": false,
+            "value": "魏哲家"
+        },
+        "startupRiskDescription": {
+            "isHidden": true,
+            "value": ""
+        },
+        "mops_url_2": {
+            "isHidden": false,
+            "value": "https://esg.tsmc.com/zh-Hant/sustainable-management/materiality-analysis"
+        },
+        "ROTCDate": {
+            "isHidden": false,
+            "value": ""
+        },
+        "haveSpecialStock": {
+            "isHidden": false,
+            "value": false
+        },
+        "marketName": {
+            "isHidden": false,
+            "value": "上市公司"
+        },
+        "enterpriseUnifiedNumber": {
+            "isHidden": false,
+            "value": "22099131"
+        },
+        "thirdSeasonFinancialReport": {
+            "isHidden": true,
+            "value": ""
+        },
+        "isPublishedAndStartup": {
+            "isHidden": true,
+            "value": ""
+        },
+        "stockId": {
+            "isHidden": false,
+            "value": "2330"
+        },
+        "accountingYear": {
+            "isHidden": false,
+            "value": ""
+        },
+        "faxNumber": {
+            "isHidden": false,
+            "value": "03-5797337"
+        },
+        "applyDate": {
+            "isHidden": true,
+            "value": ""
+        },
+        "approvedOrganization": {
+            "isHidden": true,
+            "value": ""
+        },
+        "isJapaneseCompany": {
+            "isHidden": true,
+            "value": false
+        },
+        "companyAbbreviation": {
+            "isHidden": false,
+            "value": "台積電"
+        },
+        "transferAgencyTelephone": {
+            "isHidden": false,
+            "value": "02-6636-5566"
+        },
+        "president": {
+            "isHidden": false,
+            "value": "總裁: 魏哲家"
+        },
+        "OTCDate": {
+            "isHidden": false,
+            "value": ""
+        }
+    },
+    "datetime": "114/09/03 13:40:13"
+}
